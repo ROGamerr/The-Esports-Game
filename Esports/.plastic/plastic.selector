@@ -1,0 +1,4 @@
+repository "Esports/Esports@13469953694415@cloud"
+  path "/"
+    br "/main"
+    co "/main"
